@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ugochukwu Joshua]
+# 👋 Hi, I'm Ugochukwu Joshua
 
 🎯 **Data Analyst | Python Developer | AI Workflow Builder | Microsoft Azure Enthusiast**
 
