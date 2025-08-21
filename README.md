@@ -61,7 +61,7 @@ A custom Quart-based web app using:
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🌐 [GitHub](https://github.com/your-username)
+- 🌐 (https://github.com/UCJPENIEL/1990s-Netflix-Movie-Duration-Trend)
 - 📧 Email: jugochukwu502@gmail.com  
 - 📢 Open to freelance, internships, and full-time data roles!
 
