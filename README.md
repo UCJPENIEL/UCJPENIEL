@@ -24,7 +24,7 @@ A custom Quart-based web app using:
 - 🧰 **ElevenLabs (Optional)**: Premium TTS integration
 - 🔧 **Full Admin Dashboard**: Upload questions, manage calls, review outputs
 
-👉 **[View GitHub Repository](https://github.com/UCJPENIEL/UCJPENIEL)**  
+👉 **[View GitHub Repository](https://github.com/UCJPENIEL/1990s-Netflix-Movie-Duration-Trend)**  
 👉 **[Explore Fiverr Project](https://www.fiverr.com/toluai/boost-business-sales-with-automated-ai-cold-calling-agent-ai-calling-agent)**
 
 ---
@@ -61,7 +61,7 @@ A custom Quart-based web app using:
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🌐 (https://github.com/UCJPENIEL/1990s-Netflix-Movie-Duration-Trend)
+- 🌐 (https://github.com/UCJPENIEL/UCJPENIEL)
 - 📧 Email: jugochukwu502@gmail.com  
 - 📢 Open to freelance, internships, and full-time data roles!
 
